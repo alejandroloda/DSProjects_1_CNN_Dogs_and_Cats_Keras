@@ -20,3 +20,5 @@ _visual_keras_ library from https://github.com/ellolo/visual-keras
 
 (It's necessary modify `from keras.layers.pooling import as _Pooling2D` for `from keras.layers.pooling import MaxPooling2D as _Pooling2D` )
 
+---
+
